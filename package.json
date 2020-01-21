@@ -1,0 +1,27 @@
+{
+  "name": "cursonode",
+  "version": "0.1.0",
+  "description": "Proyecto platzi chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damartinezru/platzi-nodejs.git"
+  },
+  "keywords": [
+    "chat",
+    "telegram",
+    "server"
+  ],
+  "author": "Daniela Alexandra Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damartinezru/platzi-nodejs/issues"
+  },
+  "homepage": "https://github.com/damartinezru/platzi-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
